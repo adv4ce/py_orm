@@ -1,1 +1,6 @@
-params = {"login": "", "password": "", "localhost": "5432", "namedb": ""}
+params = {
+    "login": "",
+    "password": "",
+    "localhost": "5432",
+    "namedb": "",
+}
