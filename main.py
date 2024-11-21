@@ -8,7 +8,6 @@ def delete_test_table():
 
 
 def main():
-    print(record_data())
     print(out_data(input("Введите автора: ").encode("utf-8").decode("unicode_escape")))
 
 
